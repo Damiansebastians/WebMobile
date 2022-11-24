@@ -1,5 +1,5 @@
 # WebMobile
-Class _ JQ Mobile
+Class _ JQuery Mobile
 
 Práctica para la clase de JQ Mobile
 Interface para web de ventas de shirts
